@@ -1,7 +1,9 @@
 FastProxySwitcher
 =================
 
-Download latest version from http://bit.ly/UbuntuFPS
+Version 0.2
+
+Download latest version from http://bit.ly/UbuntuFPS 
 
 Works on Ubuntu 14.04, 13.10, 13.04
 
@@ -13,15 +15,27 @@ Curl is needed for this program to run.
 
 Open .py file in text editor to view and edit proxies.
 
-Please let us know if you have any suggestions or have made any useful changes.
+Suggestions
+================
+
+We would love to know suggestions or have made any useful changes you have made.
 
 uuksarma@gmail.com
-001.amby@gmail.com 
+001.amby@gmail.com
+
+
+Version 0.2
+===========
+
+*Minor bug fixes
+
+*ENTER for fastest proxy option
+
+License
+============
 
 Released under MIT License 
 http://choosealicense.com/licenses/mit/
-
-
 
 The MIT License (MIT)
 
