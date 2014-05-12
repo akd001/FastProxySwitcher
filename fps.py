@@ -22,8 +22,10 @@ proxy = ['10.3.100.209:8080',
 
 ignoreList = "['localhost',  '127.0.0.1', 'hosts', '10.*' ]"
 
-# Find curl on system
 Version = '0.2'
+
+# Find curl on system
+
 p = commands.getstatusoutput('curl -V')
 if (p[1] == 'sh: 1: curl: not found' ):
 	print "install curl and re-run"
