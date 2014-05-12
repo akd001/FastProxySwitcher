@@ -20,7 +20,7 @@ Open .py file in text editor to view and edit proxies.
 Suggestions
 ================
 
-We would love to know suggestions or have made any useful changes you have made.
+We would love to know your suggestions or have made any useful changes you have made.
 
 uuksarma@gmail.com
 001.amby@gmail.com
