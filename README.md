@@ -1,7 +1,9 @@
 FastProxySwitcher
 =================
 
-Works on Ubuntu 14.04
+Download latest version from http://bit.ly/UbuntuFPS
+
+Works on Ubuntu 14.04, 13.10, 13.04
 
 Run 'fps.py' file from its directory 
 
@@ -16,8 +18,10 @@ Please let us know if you have any suggestions or have made any useful changes.
 uuksarma@gmail.com
 001.amby@gmail.com 
 
-Lisenced under MIT License 
+Released under MIT License 
 http://choosealicense.com/licenses/mit/
+
+
 
 The MIT License (MIT)
 
