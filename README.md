@@ -5,6 +5,8 @@ Version 0.2
 
 Download latest version from http://bit.ly/UbuntuFPS 
 
+View repo at https://github.com/uuksarma/FastProxySwitcher
+
 Works on Ubuntu 14.04, 13.10, 13.04
 
 Run 'fps.py' file from its directory 
