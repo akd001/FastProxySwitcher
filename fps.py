@@ -3,7 +3,7 @@
 ###############################################################################
 # The MIT License (MIT)
 # Refer to README.md
-# Credits : uuksarma@gmail.com, 001.amby@gmail.com
+# Credits : Uday Krishna Sarma, Ambar De
 #################################################################################
 
 import thread
