@@ -23,7 +23,7 @@ Suggestions
 We would love to know your suggestions or have made any useful changes you have made.
 
 Uday Krishna Sarma (uuksarma@gmail.com)
-Ambar Kumar De (001.amby@gmail.com)
+Ambar De (001.amby@gmail.com)
 
 
 Version 0.2
